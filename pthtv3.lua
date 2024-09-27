@@ -5,5 +5,6 @@ return {
     752406, -- abii
     843228, -- Airenz
     849314, -- gxt
-    393656 -- Cocole
+    393656, -- Cocole
+    851252 -- AnitaMaxWyn
 }
