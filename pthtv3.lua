@@ -6,5 +6,6 @@ return {
     843228, -- Airenz
     849314, -- gxt
     393656, -- Cocole
-    851252 -- AnitaMaxWyn
+    851252, -- AnitaMaxWyn
+    506313 -- Vpos
 }
