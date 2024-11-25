@@ -9,5 +9,6 @@ return {
     851252, -- AnitaMaxWyn
     506313, -- Vpos
     774286, -- Fauzan
-    836729 -- mokahh
+    836729, -- mokahh
+    704031 -- StillGoldLane
 }
