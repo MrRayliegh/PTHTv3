@@ -13,5 +13,6 @@ return {
     704031, -- StillGoldLane
     731181, -- imjrtorre
     496448, --Meldis
-    293501 -- Ceres
+    293501, -- Ceres
+    898700 -- ZXD
 }
