@@ -14,5 +14,6 @@ return {
     731181, -- imjrtorre
     496448, --Meldis
     293501, -- Ceres
-    898700 -- ZXD
+    898700, -- ZXD
+    533297 -- nyarc
 }
