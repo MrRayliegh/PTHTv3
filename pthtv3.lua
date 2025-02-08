@@ -19,5 +19,6 @@ return {
     908902, -- SEAN
     908145, -- NPC
     490194, -- MATH/ ALGELO
-    327619 -- A Star
+    327619, -- A Star
+    164208 -- ZHEESH
 }
