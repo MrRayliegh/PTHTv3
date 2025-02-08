@@ -18,5 +18,6 @@ return {
     533297,533988, -- marc
     908902, -- SEAN
     908145, -- NPC
-    490194 -- MATH/ ALGELO
+    490194, -- MATH/ ALGELO
+    327619 -- A Star
 }
