@@ -20,5 +20,6 @@ return {
     908145, -- NPC
     490194, -- MATH/ ALGELO
     327619, -- A Star
-    164208 -- ZHEESH
+    164208, -- ZHEESH
+    908144,908138 -- MAMUD21
 }
