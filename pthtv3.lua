@@ -21,5 +21,6 @@ return {
     490194, -- MATH/ ALGELO
     327619, -- A Star
     164208, -- ZHEESH
-    908144,908138 -- MAMUD21
+    908144,908138, -- MAMUD21
+    118272 -- Vyte
 }
