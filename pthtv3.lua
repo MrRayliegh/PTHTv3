@@ -22,5 +22,6 @@ return {
     327619, -- A Star
     164208, -- ZHEESH
     908144,908138, -- MAMUD21
-    118272 -- Vyte
+    118272, -- Vyte
+    495681 -- Kentaro
 }
