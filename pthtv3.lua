@@ -23,5 +23,6 @@ return {
     164208, -- ZHEESH
     908144,908138, -- MAMUD21
     118272, -- Vyte
-    495681 -- Kentaro
+    495681, -- Kentaro
+    606085 -- toha
 }
