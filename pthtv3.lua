@@ -24,5 +24,6 @@ return {
     908144,908138, -- MAMUD21
     118272, -- Vyte
     495681, -- Kentaro
-    606085 -- toha
+    606085, -- toha
+    671348 -- tamsy
 }
