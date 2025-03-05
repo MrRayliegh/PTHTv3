@@ -26,5 +26,6 @@ return {
     495681, -- Kentaro
     606085, -- toha
     671348, -- tamsy
-    917023 -- mark
+    917023, -- mark
+    921194 -- Joo
 }
