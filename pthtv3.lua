@@ -31,6 +31,7 @@ return {
     396515, -- Regs
     916366, -- zyre
     54009, -- sansman
-    470650 -- ppp
+    470650, -- ppp
+    928462 -- massdafit
     
 }
