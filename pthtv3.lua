@@ -32,6 +32,7 @@ return {
     916366, -- zyre
     54009, -- sansman
     470650, -- ppp
-    928462 -- massdafit
+    928462, -- massdafit
+    745811 -- shark
     
 }
