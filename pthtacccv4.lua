@@ -1,8 +1,9 @@
 return {
   487237, -- OWNER
-  705193, 671348, -- TAMSY
+  705193, 671348, -- TAMSY max
   164208, -- Yanzy
   54009, -- sansman
-  920985, 916366, -- Zyre
-  908145, 908663 -- noname max
+  920985, 916366, -- Zyre max
+  908145, 908663, -- noname max
+  934659, 842803 -- NDYZzz max
 }
