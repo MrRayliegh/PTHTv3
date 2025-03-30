@@ -5,5 +5,6 @@ return {
   54009, -- sansman
   920985, 916366, -- Zyre max
   908145, 937892, -- noname max
-  934659, 842803 -- NDYZzz max
+  934659, 842803, -- NDYZzz max
+  917023, 918401 -- sikretperson
 }
