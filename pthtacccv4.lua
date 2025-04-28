@@ -9,5 +9,5 @@ return {
   917023, 918401, -- sikretperson
   641013, -- DappaAja
   942703,944044, --kaawrl max
-  455864 -- maww
+  459527 -- maww
 }
