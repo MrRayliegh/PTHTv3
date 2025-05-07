@@ -10,5 +10,6 @@ return {
   641013, -- DappaAja
   942703,944044, --kaawrl max
   459527, -- maww
-  934644 -- nothings
+  934644, -- nothings
+  952633 -- 1CEs
 }
