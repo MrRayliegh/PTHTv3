@@ -11,5 +11,6 @@ return {
   942703,944044, --kaawrl max
   459527, -- maww
   934644, -- nothings
-  952633 -- 1CEs
+  952633, -- 1CEs
+  757740 -- Krisna
 }
