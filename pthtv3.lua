@@ -36,6 +36,7 @@ return {
     745811, -- shark
     732932, -- Dani
     681448, -- sooon
-    944361 -- geoger droyd
+    944361, -- geoger droyd
+    956791 -- WIS
     
 }
