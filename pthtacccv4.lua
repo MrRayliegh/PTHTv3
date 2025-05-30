@@ -12,5 +12,6 @@ return {
   459527, -- maww
   934644, -- nothings
   952633, -- 1CEs
-  757740,229649 -- Krisna MAX
+  757740,229649, -- Krisna MAX
+  537643,775293 -- kael
 }
